@@ -1,5 +1,11 @@
 /*IDs*/
 
+#img_p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
+}
 
 #fig_p{
     background-color: rgb(232, 228, 255);
@@ -31,7 +37,6 @@ a {
 body {
     margin: 0px;
 }
-
 /*Custom Classes*/
 
 .navbot{
